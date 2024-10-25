@@ -82,4 +82,4 @@ end
 --// getgenv().GraphicsLevel = "potato"  -- Options: "potato", "low", "mid", "normal"
 
 --// Load and execute the external graphics and cleanup script
---// loadstring(game:HttpGet("https://raw.githubusercontent.com/John142-dot/graphicschanger/refs/heads/main/main.lua"))()
+--// loadstring(game:HttpGet("https://raw.githubusercontent.com/John142-dot/graphicschanger/refs/heads/main/main.txt"))()
